@@ -2,7 +2,7 @@
     "encoding": "application/json",
     "body": 
     {
-            "did": "did:web:bluesky-d0k.pages.dev",
+            "did": "did:web:ai-barf.vivid-desk0065.workers.dev",
             "feeds": 
                 [
                     {
