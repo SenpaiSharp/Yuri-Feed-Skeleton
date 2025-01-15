@@ -6,9 +6,9 @@
             "feeds": 
                 [
                     {
-                        "uri": "at://did:plc:ddw4ty2agsccuitrvz4paua7/app.bsky.feed.generator/prototype"
+                        "uri": "at://did:plc:ddw4ty2agsccuitrvz4paua7/app.bsky.feed.generator/prototype",
+                        "limit": 3
                     }
-                ],
-            "limit": 3
+                ]
     }
 }
