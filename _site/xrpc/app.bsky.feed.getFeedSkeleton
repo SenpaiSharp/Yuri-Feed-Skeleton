@@ -20,9 +20,5 @@
         "post": "at://did:plc:qx54hyllt76t2n55ptv5gpzi/app.bsky.feed.post/3lfh2h4clmk2p"
       }
     ],
-  "params":
-    {
-        "limit": 3
-    }
 }
 
