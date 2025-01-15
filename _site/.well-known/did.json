@@ -2,12 +2,12 @@
     "@context": [
         "https://www.w3.org/ns/did/v1"
     ],
-    "id": "did:web:ai-barf.vivid-desk0065.workers.dev",
+    "id": "did:web:bluesky-d0k.pages.dev",
     "service": [
       {
         "id": "#bsky_fg",
         "type": "BskyFeedGenerator",
-        "serviceEndpoint": "https://ai-barf.vivid-desk0065.workers.dev"
+        "serviceEndpoint": "https://bluesky-d0k.pages.dev"
       }
     ]
 }
