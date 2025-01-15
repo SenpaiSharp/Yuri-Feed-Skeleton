@@ -8,10 +8,10 @@
                     {
                         "uri": "at://did:plc:ddw4ty2agsccuitrvz4paua7/app.bsky.feed.generator/prototype"
                     }
-                ]
-    }
-    "params":
-    {
-        "limit": 3
+                ],
+            "params":
+                {
+                    "limit": 3
+                }
     }
 }
